@@ -1,4 +1,4 @@
-![tdmain](./execution/tdmain.jpg)
+![tdmain](./execution/screenshot/tdmain.jpg)
 
 elemental Tower Defense 1.0v
 

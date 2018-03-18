@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TileEx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TileExDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="StartMenuView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EditView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EditHelpDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EditOptionDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="tower.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="menutitle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="msgBox.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameHelpDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOptionDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TileEx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TileExDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenuView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EditView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EditHelpDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EditOptionDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tower.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="menutitle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="msgBox.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameHelpDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOptionDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TileEx.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\TileEx.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Standard.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Select.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Arrow.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Hand.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\TileExDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\TileEx.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\right-arrow.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\cube.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\power-button.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\MainIcon.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\tower.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\load.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\question.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\save.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\settings.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Build.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dollar.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\electric.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fire.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Nature.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\water.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\start.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\tileset.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\reset.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\teststart.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\component32.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\drop32.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\electric32.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fire32.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\leaf32.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\startdouble.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
